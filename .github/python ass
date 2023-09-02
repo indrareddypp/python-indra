@@ -1,1 +1,4 @@
-
+def add():
+a=int(input("Enter the side of an square : ")
+b=a**a
+print(b)
